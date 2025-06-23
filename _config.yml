@@ -3,6 +3,8 @@ description: Learning Jekyll + MathJax
 theme: minima
 plugins:
   - jekyll-feed
+  
+baseurl: "/dplf"
 
 # Optional: enable pretty permalinks globally
 defaults:
