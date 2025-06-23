@@ -1,0 +1,13 @@
+title: My Math Site
+description: Learning Jekyll + MathJax
+theme: minima
+plugins:
+  - jekyll-feed
+
+# Optional: enable pretty permalinks globally
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      permalink: /:path/
